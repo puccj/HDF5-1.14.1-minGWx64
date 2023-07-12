@@ -1,4 +1,4 @@
-# HDF51.14.1-minGWx64
+# HDF5-1.14.1-minGWx64
 A prebuilt version of HDF5 made for MinGW compiler (x64).
 
 
